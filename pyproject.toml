@@ -13,6 +13,7 @@ dj-static = "^0.0.6"
 django-stdimage = "^6.0.2"
 psycopg2-binary = "^2.9.9"
 python-dotenv = "^1.0.1"
+django-bootstrap4 = "^24.4"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.2.2"
